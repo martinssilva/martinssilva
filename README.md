@@ -19,7 +19,7 @@ Tools
 
     🔄 Version Control: Git, SVN, GitLab, and of course, GitHub!
     🐘 Database: PostgreSQL
-    💻 Web Development: HTML, CSS, Materialize, Bootstrap and jQuery
+    💻 Web Development: HTML, CSS, Materialize, Bootstrap, jQuery and SASS.
 
 🎓 Education
 
