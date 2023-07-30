@@ -1,25 +1,41 @@
 👋 Hi, I'm Bruno!
 
-Welcome to my GitHub profile! I'm a soon-to-be graduate with hands-on experience in several programming languages and development tools. Currently, I'm focusing on React Native development, but my skills span across a variety of technologies.
-🔧 Technologies & Tools
+Welcome to my GitHub profile! I'm a soon-to-be graduate with hands-on experience. Currently, I'm focusing on React Native development.
 
 Here's a quick overview of my skills:
+
+🔧 Technologies & Tools
+
 Programming Languages
 
-    💾 C: 🌟
-    💾 C#: 🌟
-    ☕ Java: 🌟
-    🐍 Python: 🌟🌟
-    🌐 PHP: 🌟🌟
-    🌐 JavaScript: 🌟🌟🌟🌟
+    🐍 Python
+    🌐 PHP
+    🌐 JavaScript
 
-    Note: The more stars (🌟), the more proficient I am with the language.
+Frameworks
 
-Tools
+    ⚛️ React
+    📱 React Native
 
-    🔄 Version Control: Git, SVN, GitLab, and of course, GitHub!
-    🐘 Database: PostgreSQL
-    💻 Web Development: HTML, CSS, Materialize, Bootstrap, jQuery and SASS.
+Web Development
+
+    🌐 HTML
+    🎨 CSS
+    🔄 Materialize
+    🅱️ Bootstrap
+    💡 jQuery
+    🎈 SASS
+
+Database
+
+    🐘 PostgreSQL
+
+Version Control
+
+    🔄 Git
+    💠 SVN
+    🦊 GitLab
+    🐙 GitHub
 
 🎓 Education
 
