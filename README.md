@@ -44,7 +44,7 @@ I graduated last year! It's been a challenging yet rewarding journey.
 
 🌱 What I'm currently doing
 
-I'm currently working on hybrid mobile apps with React Native. It's being exciting to be able to use web skills on mobile apps!
+I'm currently working on hybrid mobile apps with React Native. It's exciting to be able to use JavaScript in ways other than web development!
 
 📫 Connect with me:
 
