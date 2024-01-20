@@ -1,6 +1,6 @@
 👋 Hi, I'm Bruno!
 
-Welcome to my GitHub profile! I'm a soon-to-be graduate with hands-on experience. Currently, I'm focusing on React Native development.
+Welcome to my GitHub profile! Currently, I'm working with React Native development.
 
 Here's a quick overview of my skills:
 
@@ -10,6 +10,7 @@ Programming Languages
 
     🐍 Python
     🌐 PHP
+    💻 C#
     🌐 JavaScript
 
 Frameworks
@@ -39,11 +40,11 @@ Version Control
 
 🎓 Education
 
-I'm excited to be graduating soon! It's been a challenging yet rewarding journey.
+I graduated last year! It's been a challenging yet rewarding journey.
 
 🌱 What I'm currently doing
 
-I'm currently an intern, learning and helping to build hybrid mobile apps with React Native. It's an exciting journey to broaden my skills and contribute to real-world projects!
+I'm currently working on hybrid mobile apps with React Native. It's being exciting to be able to use web skills on mobile apps!
 
 📫 Connect with me:
 
