@@ -1,44 +1,50 @@
 👋 Hi, I'm Bruno!
 
-Welcome to my GitHub profile! Currently, I'm working with React Native development.
+Welcome to my GitHub profile! I'm a Mobile Developer focused on creating scalable and high-performance mobile applications.
 
-Here's a quick overview of my skills:
+## 🔧 Technologies & Tools
 
-🔧 Technologies & Tools
+### Programming Languages
 
-Programming Languages
+🌐 JavaScript / TypeScript  
+📱 Kotlin  
+💻 Java  
+🐍 Python  
 
-    🌐 JavaScript/TypeScript
-    📱 Kotlin
-    💻 Java
-    🐍 Python
+### Mobile Development
 
-Frameworks
+📱 React Native  
+⚡ Expo  
+🎬 Reanimated  
+👆 React Native Gesture Handler  
+🧭 React Navigation  
+🗄️ AsyncStorage  
+🔄 Redux & Redux Toolkit    
+🎨 Styled Components    
 
-    ⚛️ React
-    📱 React Native
+### Web Development
 
-Web Development
+⚛️ React  
+🌐 HTML  
+🎨 CSS  
+🅱️ Bootstrap  
+🔄 Materialize  
+💡 jQuery  
+🎈 SASS  
 
-    🌐 HTML
-    🎨 CSS
-    🔄 Materialize
-    🅱️ Bootstrap
-    💡 jQuery
-    🎈 SASS
+### Database
 
-Database
+🐘 PostgreSQL
+🐬 MySQL
 
-    🐘 PostgreSQL
+### Version Control & Collaboration
 
-Version Control
+🔄 Git  
+🐙 GitHub  
+🦊 GitLab  
+💠 SVN  
 
-    🔄 Git
-    💠 SVN
-    🦊 GitLab
-    🐙 GitHub
-
-🌱 What I'm currently doing
+## 🌱 What I'm currently doing
 
 I'm working for the past four years on mobile development, with the focus on hybrid apps with React Native.
 
