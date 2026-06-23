@@ -8,10 +8,10 @@ Here's a quick overview of my skills:
 
 Programming Languages
 
+    🌐 JavaScript/TypeScript
+    📱 Kotlin
+    💻 Java
     🐍 Python
-    🌐 PHP
-    💻 C#
-    🌐 JavaScript
 
 Frameworks
 
@@ -40,7 +40,7 @@ Version Control
 
 🌱 What I'm currently doing
 
-I'm currently working on hybrid mobile apps with React Native. It's exciting to be able to use JavaScript in ways other than web development!
+I'm working for the past four years on mobile development, with the focus on hybrid apps with React Native.
 
 📫 Connect with me:
 
