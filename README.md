@@ -4,12 +4,25 @@ Welcome to my GitHub profile! I'm a Mobile Developer focused on creating scalabl
 
 ## 🔧 Technologies & Tools
 
+<table>
+  <tr>
+    <td valign="top">
+
 ### Programming Languages
 
 🌐 JavaScript / TypeScript  
 📱 Kotlin  
 💻 Java  
-🐍 Python  
+🐍 Python
+
+</td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinssilva&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
 
 ### Mobile Development
 
@@ -19,8 +32,11 @@ Welcome to my GitHub profile! I'm a Mobile Developer focused on creating scalabl
 👆 React Native Gesture Handler  
 🧭 React Navigation  
 🗄️ AsyncStorage  
-🔄 Redux & Redux Toolkit    
-🎨 Styled Components    
+🔄 Redux & Redux Toolkit  
+🎨 Styled Components  
+
+</td>
+    <td valign="top" width="50%">
 
 ### Web Development
 
@@ -30,12 +46,20 @@ Welcome to my GitHub profile! I'm a Mobile Developer focused on creating scalabl
 🅱️ Bootstrap  
 🔄 Materialize  
 💡 jQuery  
-🎈 SASS  
+🎈 SCSS  
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
 
 ### Database
 
-🐘 PostgreSQL
-🐬 MySQL
+🐘 PostgreSQL  
+🐬 MySQL  
+
+</td>
+    <td valign="top" width="50%">
 
 ### Version Control & Collaboration
 
@@ -43,6 +67,10 @@ Welcome to my GitHub profile! I'm a Mobile Developer focused on creating scalabl
 🐙 GitHub  
 🦊 GitLab  
 💠 SVN  
+
+</td>
+  </tr>
+</table>
 
 ## 🌱 What I'm currently doing
 
