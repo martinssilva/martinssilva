@@ -33,20 +33,23 @@ Welcome to my GitHub profile! I'm a Mobile Developer focused on creating scalabl
 🧭 React Navigation  
 🗄️ AsyncStorage  
 🔄 Redux & Redux Toolkit  
-🎨 Styled Components  
+🎨 Styled Components 
+📱 Kotlin
 
 </td>
     <td valign="top" width="50%">
 
 ### Web Development
 
-⚛️ React  
+⚛️ React
+🅰️ Angular
+🦁 NestJS
 🌐 HTML  
 🎨 CSS  
 🅱️ Bootstrap  
 🔄 Materialize  
 💡 jQuery  
-🎈 SCSS  
+🎈 SCSS
 
 </td>
   </tr>
